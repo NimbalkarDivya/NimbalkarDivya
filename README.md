@@ -1,7 +1,7 @@
 Hi 👋, I'm Divya Nimbalkar
 <img align="right" alt="Coding" width="220" src="img.A.gif"/>
 
-🎓 BTech CSE (Data Science) – Final Year
+🎓 BTech CSE (Data Science) – 2025 pass out
 📊 Data Scientist | ML Enthusiast | Full Stack Developer
 🌍 Open Source Contributor
 
@@ -30,18 +30,10 @@ AWS | GCP | Docker | Power BI | Tableau
 
 🛒 Swagatam App – Food e-commerce platform
 
-📊 AI Data Agent – Conversational SQL insights
-
-🏆 Achievements
-
-✅ GATE Qualified (DA & AI)
+📊 AI Data Agent – Conversational SQL insight
 
 🌟 Known for decision-making & collaboration
 
 📫 Connect
-
 🔗 LinkedIn
-
-🐙 GitHub
-
-📧 your-email@gmail.com
+📧 your-divyanimbalkar.m@gmail.com
