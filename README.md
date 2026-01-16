@@ -1,5 +1,5 @@
 Hi 👋, I’m Divya Nimbalkar
-<img align="right" alt="Coding" width="210" src="img.A.gif"/>
+<img align="right" alt="Coding" width="150" src="img.A.gif"/>
 
 🎓 BTech in Computer Science (Data Science) | 2025 Graduate
 📊 Data Scientist | Data Engineer | AI Practitioner
