@@ -5,6 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NimbalkarDivya\&color=blue)
 
 ---
+![Coding GIF](img.A.gif)
 
 ### 🚀 About Me
 
