@@ -1,39 +1,53 @@
-Hi 👋, I'm Divya Nimbalkar
+Hi 👋, I’m Divya Nimbalkar
 <img align="right" alt="Coding" width="220" src="img.A.gif"/>
 
-🎓 BTech CSE (Data Science) – 2025 pass out
-📊 Data Scientist | ML Enthusiast | Full Stack Developer
-🌍 Open Source Contributor
+🎓 BTech in Computer Science (Data Science) | 2025 Graduate
+📊 Data Scientist | Data Engineer | AI Practitioner
+🌍 Open-Source Contributor | Problem-Driven Technologist
 
-🚀 About Me
+🚀 Professional Summary
 
-💡 Passionate about Machine Learning, AI & Data Analytics
+I specialize in building intelligent, data-centric systems — from data ingestion and pipelines to analytics, machine learning, and AI-powered decision systems.
 
-💻 6+ months experience in MERN & Full Stack Development
+🧠 Strong foundation in Data Science, Machine Learning & Applied AI
 
-📈 Love turning data into insights
+🏗️ Hands-on experience in data engineering workflows, databases & pipelines
 
-🤝 Strong in leadership & teamwork
+💻 6+ months experience across MERN & Full-Stack systems supporting data products
 
-🛠️ Tech Stack
+📈 Passionate about converting raw data into scalable, insight-driven solutions
 
-Python | Java | JavaScript | SQL
-Pandas | NumPy | Scikit-learn | TensorFlow
-React | Node.js | Express | MongoDB | MySQL
-AWS | GCP | Docker | Power BI | Tableau
+🤝 Known for technical leadership, clarity in decision-making & collaboration
 
-📌 Highlight Projects
+🛠️ Core Expertise
 
-🌍 Global Pollution Dashboard (2024) – AQI-based health analytics
+Programming: Python, Java, JavaScript, SQL
+Data Science & AI: Pandas, NumPy, Scikit-learn, TensorFlow, NLP, Statistics
+Data Engineering: SQL/NoSQL, MongoDB, MySQL, SQLite, Snowflake, ETL concepts
+Visualization & Analytics: Power BI, Tableau, MS Excel
+Cloud & DevOps: AWS, GCP, Docker, GitHub
+Web Systems: React, Node.js, Express, REST APIs
 
-🤖 RTSP Face Detection System – Real-time MTCNN alerts
+📌 Selected Projects
 
-🛒 Swagatam App – Food e-commerce platform
+🌍 Global Pollution Analytics Platform (2024)
+Health-focused AQI modeling and visualization using real-world datasets
 
-📊 AI Data Agent – Conversational SQL insight
+🤖 RTSP Face Detection System
+Real-time AI pipeline with MTCNN, alerting, and performance optimization
 
-🌟 Known for decision-making & collaboration
+📊 AI Data Agent
+Conversational interface for querying structured SQL data and generating insights
+
+🛒 Swagatam
+End-to-end e-commerce system with scalable backend and data handling
+
+🌟 Strengths
+
+Analytical mindset | Systems thinking | Ownership | Cross-team collaboration | Data-driven decision making
 
 📫 Connect
-🔗 LinkedIn
-📧 your-divyanimbalkar.m@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/divya-madhukar-nimbalkar
+
+📧 Email: divyanimbalkar.m@gmail.com
